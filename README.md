@@ -1,16 +1,47 @@
-## Hi there 👋
+# Sobre mim 
 
-<!--
-**lesouxz/lesouxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me chamo **Leticia** tenho 16 anos e moro em Itaquera, sou uma <inst>aluna do ensino médio, sou super positiva, gosto de estar em boas companhias, super familia, e sempre vou prioriza-lá
 
-Here are some ideas to get you started:
+# Formação Acadêmica:
+ Estou cursando Desenvolvimento de sistema.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Cursos que eu quero, ou faria: 
+
+ Eu gostaria de cursar faculdade de Direito, para me tornar delegada, mas faria Pediatria.
+
+ # Meus gostos pessoais e oque gsoto de fazer no meu tempo livre:
+ 
+ Gosto de sair com a minha familía e amigos, e brinco bastante com a minha cachorra.
+
+ !<img width="169" alt="{9CF84499-0123-4D2F-9183-229C6926E837}" src="https://github.com/user-attachments/assets/1e60b057-2a22-49f9-b7e0-e4af0161c467" />
+ !![image](https://github.com/user-attachments/assets/56c8a5ea-0238-4914-acd7-a688022e37bf)
+
+![image](https://github.com/user-attachments/assets/566604f8-a227-4acd-820e-a1d05054d99b)
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
