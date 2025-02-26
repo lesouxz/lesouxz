@@ -9,7 +9,7 @@
 
  Eu gostaria de cursar faculdade de Direito, para me tornar delegada, mas faria Pediatria.
 
- # Meus gostos pessoais e oque gsoto de fazer no meu tempo livre:
+ # Meus gostos pessoais e o que gosto de fazer no meu tempo livre:
  
  Gosto de sair com a minha familía e amigos, e brinco bastante com a minha cachorra.
 
